@@ -32,3 +32,6 @@ For this step, two basic algorithms are implemented, and benchmarked.
 ## Replication
 Please install the packages mentioned in the ``requirements.txt`` file to identify the packages required for replicating the results as presented in the notebooks.
 
+## Benchmarking using scalene
+Individual functions were copied to temporary files, and *scalene* was used to benchmark them individually.
+
