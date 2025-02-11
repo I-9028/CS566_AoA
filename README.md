@@ -2,7 +2,7 @@
 
 [](https://github.com/I-9028/CS566_AoA#cs566_aoa)
 
-This repository contains the project for MET CS 566 for the Spring 2023 semester under Dr. Alexander Belyaev, at Boston University Metropolitan College
+This repository contains the project for MET CS 566 for the Spring 2024 semester under Dr. Alexander Belyaev, at Boston University Metropolitan College
 
 ## Title
 Finding a Solution for [A290250](https://oeis.org/A290250) for n=1
